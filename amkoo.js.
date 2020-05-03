@@ -1,0 +1,6 @@
+var m1=prompt("링크를 적어주세요.");
+var m2=11;
+m2<12
+while(true){
+open(m1)
+}
